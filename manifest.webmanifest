@@ -1,0 +1,10 @@
+{
+  "name": "Mi Diccionario Inglés-Español",
+  "short_name": "Mi Diccionario",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#243b53",
+  "lang": "es",
+  "description": "Diccionario personal inglés-español con exámenes y OCR"
+}
